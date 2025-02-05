@@ -10,6 +10,7 @@ This project involves creating a simple smart parking system using an ESP32 micr
 - Voltage: 4.8V to 6V  
 - Torque: 1.8 kg·cm at 5V  
 - Rotation range: 0° to 180°
+
 ![image](https://github.com/user-attachments/assets/b1efd6ea-9656-45b1-9b05-41fedd25c86c)
 
 
