@@ -19,21 +19,25 @@ This project involves creating a simple smart parking system using an ESP32 micr
 **Specs**:  
 - Voltage: 3.3V to 5V  
 - Detection range: 2 cm to 30 cm
+
 ![image](https://github.com/user-attachments/assets/608f2ef6-9cc8-446e-ac23-00c5c8deb13d)
 
 
 ### 3. LCD Screen (16x2)
 **Description**: A 16x2 LCD screen used to display the parking lot status, including messages about car entries and exits and available parking spaces. It is controlled via I2C communication for easy integration with the ESP32.
+
 ![image](https://github.com/user-attachments/assets/55065169-1081-43cb-9c3f-968b67a59e75)
 
 
 ### 4. ESP32
 **Description**: A versatile microcontroller with Wi-Fi and Bluetooth capabilities, perfect for IoT projects. The ESP32 is used in this project to read sensor inputs, control the servo, and display information on the LCD screen.
+
 ![image](https://github.com/user-attachments/assets/2daca45d-032c-414c-8065-4d3cacb71dfc)
 
 
 ### 5. Jumper Wires
 **Description**: Flexible wires used for making connections between components like the ESP32, sensors, and the servo.
+
 ![image](https://github.com/user-attachments/assets/461ecd5e-c48a-482f-aec2-86449d8ec808)
 
 
